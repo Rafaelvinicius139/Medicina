@@ -1,0 +1,105 @@
+
+
+
+
+#topo{
+	background:#ACFA58;
+	padding:10px;
+	text-align: center;
+	font-size: 20px;
+	color:white;
+	font-family:Arial, sans-serif;	
+
+	
+}
+Strong{
+	color:red;
+	font-size:50px;
+
+	font-family:Arial, sans-serif;	
+}
+
+#te{
+	margin: 10px;
+	font-size: 30px;
+}
+
+  #meio{
+
+  	width: 50%;
+  	background-color:white;
+  	margin-left:310px;
+  	padding:20px;
+  	font-size:20px;
+  	border: solid 5px #ACFA58 ;
+
+
+  }
+
+
+ #canto1{
+
+ 	width:200px;
+ 	background-color:black;
+ 	float:right;
+ 	margin-bottom:700px;
+ 	
+ 	
+
+ 
+
+  }
+
+  body{
+  	background-color:#D0F5A9;
+ 
+  }
+
+  img{
+
+  	width: 600px;
+  	margin-left:30px;
+  	border: solid #ACFA58 3px;
+
+
+  }
+
+  h2{
+  	background:#ACFA58;
+  	padding: 10px;
+  	padding-right: 11px ;
+  	font-family:Arial, sans-serif;
+  	color: #0A2A0A;
+  }
+
+  h1{
+  	color:#0B610B;
+  	font-family:Arial, sans-serif;
+  }
+
+  .texto{
+
+  	width:600px;
+
+  	padding: 20px;
+  	
+  	background-color:#D0F5A9 ;
+  	text-align:left;
+  	margin-left:30px;
+  	padding-top: 20px;
+  	padding-bottom:20;
+  	font-family:Arial, sans-serif;
+
+
+  }
+
+  a{
+
+  	padding: 10px;
+  	text-decoration: none;
+  	color:#0A2A0A;
+
+  	font-family:Arial, sans-serif;
+  	font-size: 30px;	
+  }
+
